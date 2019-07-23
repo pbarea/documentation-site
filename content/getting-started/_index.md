@@ -21,5 +21,5 @@ With TravelgateX you can:
 <li>Offer curated travel offers in niche markets</li>
 <li>Create realtime apps that reveal the best deals of the moment.</li></ul>
 
-Anything is possible!
+Anything is possible! d
   </p>
